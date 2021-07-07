@@ -8,4 +8,4 @@ RUN pip3 install -r /code/requirements.txt
 
 COPY . /code
 
-CMD gunicorn api_yamdb.wsgi:application --bind 178.154.241.150
+CMD gunicorn api_yamdb.wsgi:application --bind 0.0.0.0
