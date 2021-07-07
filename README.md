@@ -87,3 +87,6 @@ request = requests.post(url, data=data, headers=headers)
 
 ###Бейдж
 https://github.com/drag0nfather/yamdb_final/workflows/Yamdb_final_workflow/badge.svg
+
+###Развернутый проект доступен по адресу:
+http://178.154.241.150/
